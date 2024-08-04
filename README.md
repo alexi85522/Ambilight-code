@@ -15,5 +15,5 @@ prismatik : https://github.com/psieg/Lightpack/
 
 
 # réglage du temps d'actualisation des LED
-changer le réglage via les petites flèches dans le grand intreval:
+changer le réglage via les petites flèches dans le grab intreval:
 ![image](https://github.com/user-attachments/assets/fe1cc22b-feed-40af-98f0-5be556773780)
