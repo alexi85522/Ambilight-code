@@ -20,8 +20,10 @@ changer le réglage via les petites flèches dans le grab intreval:
 # réglage de limite de luminositer : 
 Contrôler le seuil de luminosité de vol LED par rapport à la couleur sombre de votre écran, plus, vous montez les chiffres, plus les leds vont s'éteindre quand c'est sombre.
 Vous avez deux options donc Dead Zone, ce que je viens de vous expliquer est le minimum de luminosité
-le minimum de luminosité et la luminosité globale du bandeau, n'oublie pas d'appuyer sur le soleil pour allumer le dispositif.
+le minimum de luminosité et la luminosité globale du bandeau.
 ![image](https://github.com/user-attachments/assets/8439024c-9ebf-4404-b959-a1b105e59969)
+n'oublie pas d'appuyer sur le soleil pour allumer le dispositif.
+![image](https://github.com/user-attachments/assets/d92d2bb2-89c0-4d27-a052-fb09a6d4915e)
 
 # si vous avez deux écrans veuillez sélectionner même paramètres : 
 le starting LED for this the display = c'est pour sectionner sur quel écran est le début de votre ruban led .
