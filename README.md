@@ -22,7 +22,9 @@ Contrôler le seuil de luminosité de vol LED par rapport à la couleur sombre d
 Vous avez deux options donc Dead Zone, ce que je viens de vous expliquer est le minimum de luminosité
 le minimum de luminosité et la luminosité globale du bandeau.
 ![image](https://github.com/user-attachments/assets/8439024c-9ebf-4404-b959-a1b105e59969)
+
 n'oublie pas d'appuyer sur le soleil pour allumer le dispositif.
+
 ![image](https://github.com/user-attachments/assets/d92d2bb2-89c0-4d27-a052-fb09a6d4915e)
 
 # si vous avez deux écrans veuillez sélectionner même paramètres : 
