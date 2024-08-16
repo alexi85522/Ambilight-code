@@ -26,6 +26,7 @@ le minimum de luminosité et la luminosité globale du bandeau.
 n'oublie pas d'appuyer sur le soleil pour allumer le dispositif.
 
 ![image](https://github.com/user-attachments/assets/d92d2bb2-89c0-4d27-a052-fb09a6d4915e)
+![image](https://github.com/user-attachments/assets/9099389a-a227-4779-b5a0-f331b538b702)
 
 # si vous avez deux écrans veuillez sélectionner même paramètres : 
 le starting LED for this the display = c'est pour sectionner sur quel écran est le début de votre ruban led .
